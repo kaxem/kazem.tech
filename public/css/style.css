@@ -436,8 +436,8 @@ body td {
 }
 @font-face {
   font-style: normal;
-  font-family: "Styrene A Web";
-  src: local("Styrene A Web"), url("../lib/styrene-font-family/StyreneAWeb-Regular.ttf") format("truetype");
+  font-family: "Open Sans";
+  src: local("Open Sans", sans-serif), url("../lib/open-sans/open-sans.regular.ttf") format("truetype");
 }
 *,
 *:before,
@@ -483,7 +483,7 @@ body {
   font-display: swap;
   font-weight: 400;
   font-size: 16px;
-  font-family: "Styrene A Web",sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 1.725;
   text-rendering: geometricPrecision;
   flex: 1;
@@ -1412,7 +1412,7 @@ article .content .caption {
   font-display: swap;
   font-weight: 400;
   font-size: 11.200000000000001px;
-  font-family: "Styrene A Web",sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 1.725;
   text-rendering: geometricPrecision;
   text-align: center;
@@ -1593,7 +1593,7 @@ pre {
   border: 1px dotted #666;
   border-radius: 4px;
   font-size: 13px;
-  font-family: "Styrene A Web",sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 22px;
   -webkit-border-radius: 4px;
 }
@@ -1611,7 +1611,7 @@ code {
   border-color: #333842;
   font-weight:600;
   background: #2d3039;
-  font-family: 'Source Code Pro', monospace;
+  font-family: 'Inconsolata',"Consolas","Monaco",monospace;
   -webkit-border-radius: 4px;
 }
 .highlight {
