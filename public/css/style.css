@@ -325,7 +325,7 @@ body .h1 {
   letter-spacing: normal;
   font-weight: 700;
   font-style: normal;
-  font-size: 1.5em;
+  font-size: 1.8em;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
 }
@@ -339,13 +339,13 @@ body .h2 {
   text-transform: none;
   letter-spacing: normal;
   font-weight: bold;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 body h3 {
   color: #E2E0DE;
   text-decoration: none;
   font-weight: bold;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 body h4,
 body h5,
@@ -482,7 +482,7 @@ body {
   color: #E2E0DE;
   font-display: swap;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 18px;
   font-family: "Styrene A Web", sans-serif;
   line-height: 1.8;
   text-rendering: geometricPrecision;
@@ -1060,8 +1060,8 @@ body {
 }
 .post-list .post-item .meta {
   display: block;
-  margin-right: 16px;
-  min-width: 100px;
+  margin-right: 18px;
+  min-width: 120px;
   color: #666;
   font-size: 18px;
 }
@@ -1592,7 +1592,7 @@ pre {
   padding-bottom: 0;
   border: 1px dotted #666;
   border-radius: 4px;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Styrene A Web", sans-serif;
   line-height: 22px;
   -webkit-border-radius: 4px;
@@ -1605,10 +1605,11 @@ pre code {
 code {
   overflow-x: auto;
   margin: 1rem 0;
-  font-weight:600;
+  font-weight:400;
   padding: .05rem .2rem;
   border-radius: .01rem;
   border-color: #333842;
+  font-size: 18px;
   font-weight:600;
   background: #2d3039;
   font-family: 'Inconsolata',"Consolas","Monaco",monospace;
