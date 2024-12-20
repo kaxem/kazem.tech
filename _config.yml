@@ -21,7 +21,7 @@ nav:
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://kazem.blog
+url: https://kazem.tech
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -115,7 +115,7 @@ social_links:
   # reddit: https://www.reddit.com/user/kaaaxem
   stackoverflow: https://stackoverflow.com/users/20900800/xai
   linkedin: https://www.linkedin.com/in/kazem-bolandnazar/
-  email: mailto:kaaxem@yahoo.com
+  email: kazemware@gmail.com
   # medium: https://medium.com/@liftyourskinnyfist
   NAME: https://kit.fontawesome.com/a3eff36268.js
 ##NAME is your fontawesome kit url
@@ -124,7 +124,7 @@ social_links:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/kaxem/kazem.blog
+  repo: https://github.com/kaxem/kazem.tech
   branch: main
   token: ''
   message: [message]
